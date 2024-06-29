@@ -8,14 +8,18 @@ If you want to run this demo locally:
 1. You need to create a plain text file locally, name it "test.txt"
 2. Open it with the editor that comes with Windows, then make it inactive
 3. Use Python or Go to run the file in this project.  
-> with python, run `python pydemo\run.py`  
-> with golang, run `go run main.go`
+  
+
 
 ## demo display
 This project demonstrates the capabilities of two Autolt APIs, corresponding to mouse clicks on inactive windows and sending keyboard events to inactive windows.
 
+with golang, run `go run main.go`
+
 ![image](https://github.com/Knowckx/InactiveSend/blob/main/pic/gif%20go-demo.gif)
 
+
+with python, run `python pydemo\run.py`
 
 ![image](https://github.com/Knowckx/InactiveSend/blob/main/pic/gif%20py-demo.gif)
 
