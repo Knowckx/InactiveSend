@@ -1,4 +1,4 @@
-module InactiveSend
+module github.com/Knowckx/InactiveSend
 
 go 1.21.2
 
